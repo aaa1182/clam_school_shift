@@ -1,0 +1,15 @@
+current directory: /home/take/rails/cram_school_shift/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+/home/take/.rbenv/versions/2.6.6/bin/ruby -I /home/take/.rbenv/versions/2.6.6/lib/ruby/2.6.0 -r ./siteconf20210902-1925-1aa9cx2.rb extconf.rb
+creating Makefile
+
+current directory: /home/take/rails/cram_school_shift/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /home/take/rails/cram_school_shift/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/take/rails/cram_school_shift/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20210902-1925-nc6qxu/skiptrace/internal
